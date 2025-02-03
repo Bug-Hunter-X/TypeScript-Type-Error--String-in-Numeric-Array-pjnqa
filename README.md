@@ -1,0 +1,3 @@
+# TypeScript Type Error: String in Numeric Array
+
+This repository demonstrates a common TypeScript type error encountered when combining arrays containing mixed data types (numbers and strings). The error occurs because TypeScript's type system enforces strict type checking, preventing the assignment of a string value to a number variable.  The solution involves ensuring type consistency before combining arrays.
